@@ -230,7 +230,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "https://pd.zwc365.com/https://raw.githubusercontent.com/yxd117/ksjsb/main/ks.json",
-    ksjsbjk = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ksjsb.json",
+    ksjsbjk = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ksjsb123.json",
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
